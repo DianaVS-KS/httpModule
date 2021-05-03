@@ -1,0 +1,24 @@
+{
+  "name": "httpModule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaVS-KS/httpModule.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaVS-KS/httpModule/issues"
+  },
+  "homepage": "https://github.com/DianaVS-KS/httpModule#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
